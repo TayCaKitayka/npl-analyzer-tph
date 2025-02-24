@@ -18,3 +18,5 @@ https://disk.yandex.ru/d/sID4lIxQmVMlQQ
 ```
 git clone https://github.com/taycakitayka/npl-analyzer-tph.git/
 ```
+
+Код для обучения модели в Google Colab - в файле model.py
